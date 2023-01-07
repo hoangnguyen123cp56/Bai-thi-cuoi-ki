@@ -1,0 +1,48 @@
+Name: Minh Tan
+Academic year: 2022-20223
+Grade: 4
+ID: 1117020999
+Cources: toan, ly, hoa, van, sinh
+
+Name: Hoang Nam
+Academic year: 2022-2023
+Grade: 5
+ID: 1117020998
+Cources: ly, hoa, van, sinh
+
+Name: Thien Hoang
+Academic year: 2020-2024
+Grade: 9
+ID: 1117020997
+Cources: toan, van, sinh
+
+Name: Cong Hoang
+Academic year: 2022-2023
+Grade: 5
+ID: 1117020996
+Cources: ly, van, sinh
+
+Name: Pham Diep
+Academic year: 2021-2023
+Grade: 10
+ID: 1117020994
+Cources: toan, ly, hoa
+
+Name: Hai Nam
+Academic year: 2020-2024
+Grade: 12
+ID: 1117020993
+Cources: su, dia, cong dan
+
+Name: Tang Oanh
+Academic year: 2020-2025
+Grade: 6
+ID: 1117020981
+Cources: Van, sinh, su, ly
+
+Name: Hai Hung
+Academic year: 2021-2023
+Grade: 9
+ID: 1117021001
+Cources: Toan, ly, hoa, van
+

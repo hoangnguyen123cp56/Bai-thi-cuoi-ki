@@ -1,0 +1,9 @@
+#pragma once
+int number_of_lines();
+void AddRecord();
+void RemoveRecord();
+void RemoveAll();
+void UpdateRecord();
+void SearchRecord();
+void ShowRecord();
+void totalRecord();
